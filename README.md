@@ -3,15 +3,13 @@
 <img width="1512" height="774" alt="image" src="https://github.com/user-attachments/assets/6f3353d0-db87-416c-9bd7-7fa61a5af54e" />
 
 ## 
-This repository contains code for Silhouette, an industrial-grade turret mechanism developed in collaboration with UCI's Biorobotics Laboratory. This project tightly integrates precise hardware with advanced software to explore the statistical accuracy of the Apple Watch with the help of dynamic motion profiling, synthetic data generation, and direct comparison with an array of inertial measurement units (IMU).
+The most important part of BearTracks was marketing. [Engineering the app](https://github.com/JacobQuion/BearTracks-iOS) was one thing, but actually converting users from close competitors was even more challenging. This landing page was designed to be simple and minimalistic, with the intent of capturing high conversion rates from potential consumers.
 
 ## **Highlights**
-- Intelligent setpoint adjustment based on sensor feedback (motion-profiled)
-- Timed race conditions to create 24+ synthetic trajectories.
-- Embedded timestamp data logging for fusion with UCI's motion capture camera pipeline. 
+- Minimalistic landing design following a hero -> features -> FAQs format for high conversion rates.
+- Animated mobile scrolling phone for app previewing.
+- Compliance with copyright and design guidelines from Apple for publishing on the App Store.
 
 ## **Additional**
-- [Landing Page Web View](https://beartracks-official.vercel.app/#).
-- [Demo Video](https://www.youtube.com/watch?si=5d9IL79jd1IJ_93T&v=TQcKeJbCv2A&feature=youtu.be).
-
-
+- [Landing Page Web View](https://beartracks-official.vercel.app/#) (for viewing in the browser).
+- [Demo Video](https://www.youtube.com/watch?si=5d9IL79jd1IJ_93T&v=TQcKeJbCv2A&feature=youtu.be) (watch on YouTube!).
