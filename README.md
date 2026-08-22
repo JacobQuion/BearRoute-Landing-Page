@@ -10,6 +10,8 @@ This repository contains code for Silhouette, an industrial-grade turret mechani
 - Timed race conditions to create 24+ synthetic trajectories.
 - Embedded timestamp data logging for fusion with UCI's motion capture camera pipeline. 
 
-## **Major Directories**
-- [Silhouette Master Sheet](https://docs.google.com/spreadsheets/d/1T7hXV3S2Ig0aU6FeqlcYBCahwmTHpC9RDhpLtIZTock/edit?usp=sharing) (project timeline and bill of parts)
-- [Source Project](https://github.com/JacobQuion/Silhouette/tree/main/src/main/java/frc/robot) (programs and commands for the turret subsystem)
+## **Additional**
+- [Landing Page Web View](https://beartracks-official.vercel.app/#).
+- [Demo Video](https://www.youtube.com/watch?si=5d9IL79jd1IJ_93T&v=TQcKeJbCv2A&feature=youtu.be).
+
+
