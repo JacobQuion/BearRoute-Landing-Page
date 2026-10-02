@@ -1,9 +1,9 @@
-# **BearTracks-Landing Page**
+# **Bear Route Landing Page**
 
 <img width="1512" height="774" alt="image" src="https://github.com/user-attachments/assets/6f3353d0-db87-416c-9bd7-7fa61a5af54e" />
 
 ## 
-The most important part of BearTracks was marketing. [Engineering the app](https://github.com/JacobQuion/BearTracks-iOS) was one thing, but actually converting users from close competitors was even more challenging. This landing page was designed to be simple and minimalistic, with the intent of capturing high conversion rates from potential consumers.
+The most important part of Bear Route was marketing. [Engineering the app](https://github.com/JacobQuion/BearTracks-iOS) was one thing, but actually converting users from close competitors was even more challenging. This landing page was designed to be simple and minimalistic, with the intent of capturing high conversion rates from potential consumers.
 
 ## **Highlights**
 - Minimalistic landing design following a hero -> features -> FAQs format for high conversion rates.
